@@ -1,15 +1,12 @@
 from car import Car
 
-
 car1 = Car("Ferrari", 2024, "black", False)
 car2 = Car("BMW", 2026, "Yellow", True)
 car3 = Car("Porsche", 2023, "White", True)
 
-
 car1.drive()
 car1.stop()
 car1.describe()
-
 
 """
 print(car1.model)
