@@ -14,7 +14,7 @@ Here’s what you’ll find in this repo:
 - **Inheritance** — Reuse and extend code like a pro.
 - **Polymorphism** — Write flexible, scalable methods.
 - **Abstraction** — Simplify complexity with clear design.
-- **Real-world Examples** — Learn by actually coding small OOP-based projects.
+- **Real-world Examples** — Learn by actually coding small OOP-based real world examples.
 
 ---
 
