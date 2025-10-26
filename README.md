@@ -17,3 +17,5 @@ Here’s what you’ll find in this repo:
 - **Real-world Examples** — Learn by actually coding small OOP-based projects.
 
 ---
+
+Made with ❤️ and Python by Aadil
