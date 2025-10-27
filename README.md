@@ -9,22 +9,35 @@ This repo covers everything from the basic building blocks (classes and objects)
 
 Here’s what you’ll find in this repo:
 ## Table of Contents
+Object-Oriented Programming Introduction
 
-*   [Object-Oriented Programming Introduction](#object-oriented-programming-introduction)
-*   [Class Variables](#class-variables)
-*   [Inheritance](#inheritance)
-*   [Multiple Inheritance](#multiple-inheritance)
-*   [Abstract Classes](#abstract-classes)
-*   [super() Function](#super-function)
-*   [Polymorphism](#polymorphism)
-*   [Duck Typing](#duck-typing)
-*   [Aggregation](#aggregation)
-*   [Composition](#composition)
-*   [Nested Classes](#nested-classes)
-*   [Static Methods](#static-methods)
-*   [Class Methods](#class-methods)
-*   [Magic Methods](#magic-methods)
-*   [@property Decorator](#property-decorator)
+Class Variables
+
+Inheritance
+
+Multiple Inheritance
+
+Abstract Classes
+
+super() Function
+
+Polymorphism
+
+Duck Typing
+
+Aggregation
+
+Composition
+
+Nested Classes
+
+Static Methods
+
+Class Methods
+
+Magic Methods
+
+@property Decorator
 ---
 
 Made with ❤️ and Python by Aadil
