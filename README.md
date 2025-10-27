@@ -12,32 +12,19 @@ Here’s what you’ll find in this repo:
 Object-Oriented Programming Introduction
 
 Class Variables
-
 Inheritance
-
 Multiple Inheritance
-
 Abstract Classes
-
 super() Function
-
 Polymorphism
-
 Duck Typing
-
 Aggregation
-
 Composition
-
 Nested Classes
-
 Static Methods
-
 Class Methods
-
 Magic Methods
-
-@property Decorator
+property Decorator
 ---
 
 Made with ❤️ and Python by Aadil
